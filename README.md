@@ -3,8 +3,15 @@ Projeto desenvolvido para a prova A3 da disciplina de Programação de Soluçõe
 O sistema permite gerenciar usuários, projetos e equipes, garantindo controle de tarefas, alocação de equipes e acompanhamento de projetos.
 
 ## Funcionalidades
-- Cadastro e listagem de usuários, projetos, e equipes
-  
+- Cadastro e listagem de usuários, projetos, e equipes através do seguinte menu:
+
+1.	Cadastro de usuários – Permite inserir novos usuários no sistema.
+2.	Listagem de usuários – Exibe todos os usuários cadastrados.
+3.	Cadastro de projetos – Permite criar novos projetos.
+4.	Listagem de projetos – Exibe todos os projetos cadastrados.
+5.	Cadastro de equipes – Permite criar equipes e associar membros.
+6.	Listagem de equipes – Exibe todas as equipes cadastradas.
+
 ---
 
 ## Tecnologias
